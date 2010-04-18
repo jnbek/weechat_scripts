@@ -1,0 +1,14 @@
+DESCRIPTION:
+This is a collection of scripts and plugins I've written for weechat. They are compatible for the 3.X API.
+
+FILES:
+rhythmbox.pl: Displays various song info in the current channel.
+YaAA.pl: Yet Another Auto Away, sets you away after a configured length of idle time.
+
+INSTALLATION:
+
+copy the scripts into ~/.weechat/perl/autoload, and load them into Weechat using the /perl command or restart Weechat.
+
+MISC:
+
+See http://weechat.org/ for more information regarding how awesome Weechat is.
